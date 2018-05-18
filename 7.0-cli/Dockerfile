@@ -33,6 +33,7 @@ RUN docker-php-ext-install \
   dom \ 
   gd \ 
   intl \ 
+  opcache \ 
   mbstring \ 
   pdo_mysql \ 
   xsl \ 
